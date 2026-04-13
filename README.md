@@ -2,7 +2,8 @@
 
 **Official website for the Scrambled word puzzle game**
 
-🎮 **[Visit the Live Site](https://jabill.github.io/scrambled-app/)**
+🎮 **[Visit the Live Site](https://jabill.github.io/scrambled-app/
+├── support.html                                      # Support scrambled-app/ FAQ page)**
 
 ---
 
@@ -70,7 +71,8 @@ Scrambled respects your privacy:
 - ✅ No third-party tracking or analytics
 - ✅ No network connections for data collection
 
-Read the full [Privacy Policy](https://jabill.github.io/scrambled-app/privacy-policy.html)
+Read the full [Privacy Policy](https://jabill.github.io/scrambled-app/
+├── support.html                                      # Support scrambled-app/ FAQ pageprivacy-policy.html)
 
 ---
 
@@ -117,6 +119,7 @@ Every word in Scrambled is:
 
 ```
 scrambled-app/
+├── support.html                                      # Support scrambled-app/ FAQ page
 ├── index.html                                    # Main website
 ├── privacy-policy.html                           # Privacy policy page
 ├── Scrambled_Green_with_Black_and_White_App_Icon.png  # App icon
