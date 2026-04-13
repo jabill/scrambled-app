@@ -25,10 +25,10 @@ Scrambled is a fast-paced word puzzle game where you unscramble letters before t
 ## Download
 
 ### iOS (App Store)
-*Coming Soon*
+[Download on the App Store](https://apps.apple.com/app/scrambled/6757191815)
 
 ### Android (Google Play)
-*Coming Soon*
+[Get it on Google Play](https://play.google.com/store/apps/details?id=com.jabill.scrambled)
 
 ---
 
