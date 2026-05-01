@@ -1,15 +1,15 @@
-# Scrambled
+# Scrambeld
 
-**Official website for the Scrambled word puzzle game**
+**Official website for the Scrambeld word puzzle game**
 
 🎮 **[Visit the Live Site](https://jabill.github.io/scrambled-app/
 ├── support.html                                      # Support scrambled-app/ FAQ page)**
 
 ---
 
-## About Scrambled
+## About Scrambeld
 
-Scrambled is a fast-paced word puzzle game where you unscramble letters before time runs out. Test your vocabulary, challenge yourself with daily puzzles, and track your progress across multiple difficulty levels.
+Scrambeld is a fast-paced word puzzle game where you unscramble letters before time runs out. Test your vocabulary, challenge yourself with daily puzzles, and track your progress across multiple difficulty levels.
 
 ### Key Features
 
@@ -78,7 +78,7 @@ Read the full [Privacy Policy](https://jabill.github.io/scrambled-app/
 
 ## About the Word Lists
 
-Every word in Scrambled is:
+Every word in Scrambeld is:
 
 - **Dictionary validated** - Sourced from trusted language references
 - **Family-friendly** - Carefully filtered for appropriateness
